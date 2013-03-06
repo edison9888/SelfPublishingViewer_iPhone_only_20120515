@@ -1,0 +1,318 @@
+/* 
+  Localizable.strings
+  ForIPad
+
+  Created by 藤田正訓 on 11/07/04.
+  Copyright 2011 SAT. All rights reserved.
+*/
+
+"close" = "閉じる";
+
+"leftNext" = "ページの進行方向";
+"leftward" = "左";
+"rightward" = "右";
+"rotation" = "デバイスの向きに追従する";
+"spread" = "見開き表示";
+"separateCover" = "表紙を単独で表示する";
+"pageAnimation" = "ページアニメーション";
+"scroll" = "スクロール";
+"curl" = "めくる";
+"pageMarginEffect" = "綴じ代の影エフェクト";
+"shelfFilename" = "本棚でファイル名を表示";
+"shelfType" = "本棚の背景";
+
+"backToShelf" = "本棚に戻る";
+"return" = "戻る";
+
+"error" = "エラー";
+"connectionError" = "コネクションエラーが発生しました。";
+"communicationFault" = "通信エラー";
+"conectionCut" = "コネクションが切断しました。";
+"failCommunication" = "通信に失敗しました。";
+
+"wood" = "木材-白";
+"camouflage" = "柄_模様";
+"choco" = "チョコレート";
+"green" = "黄緑";
+"japan" = "和傘";
+"pastel" = "ピンクスクエア";
+"red" = "POP-赤";
+"stars" = "POP-黄色";
+"wbox" = "木材-青";
+"wbox2" = "木材-グラデ緑";
+"wbox3" = "木材-グラデピンク";
+"yellow" = "ドット";
+
+"bookmark" = "ブックマーク";
+"prefPane" = "設定画面";
+
+"edit" = "編集";
+"done" = "完了";
+
+"back" = "戻る";
+
+"confirm" = "確認";
+"confirmDelete" = "削除してよろしいですか？";
+"confirmDeleteAll" = "全て削除してよろしいですか？";
+"deleted" = "削除完了しました。";
+
+"cancel" = "キャンセル";
+
+"cover" = "表紙設定";
+"coverthis" = "このページを表紙にする";
+"coverphoto" = "写真から表紙を選択する";
+
+"coverbook" = "この本の表紙にする";
+"coverphotobook" = "この本の表紙を選択する";
+"coverfile" = "ファイル全体の表紙にする";
+"coverphotofile" = "ファイル全体の表紙を選択する";
+
+
+
+
+"complete" = "完了";
+"coversetCompleted" = "表紙を設定しました。";
+"bookmarkCompleted" = "ブックマークしました。";
+
+"downloading" = "ダウンロードしています...";
+"abort" = "中断";
+
+"uploading" = "アップロードしています...";
+"exporting" = "エキスポートしています...";
+
+
+"completeCancel" = "キャンセルしました。";
+"cancelDownload" = "ダウンロードをキャンセルしました。";
+"completeDownload" = "ダウンロード完了しました。";
+"completeUpload" = "アップロード完了しました。";
+
+"selectFile" = "ファイルを選択してください。";
+
+"overrideConfirm" = "上書き確認";
+"confirmOverride" = "同じファイル名が存在します。上書きしますか？";
+
+"startShare" = "Bluetooth接続を開始する";
+
+"sharing" = "Bluetooth共有";
+
+"musicplayer" = "音楽";
+"creation" = "カメラで自炊";
+"dropbox" = "Dropbox";
+"bluetooth" = "Bluetooth";
+"preference" = "設定";
+"httpdownload" = "サーバー";
+
+"lock" = "回転ロック";
+
+"addByCamera" = "カメラで撮影";
+"addByAlbum" = "アルバムから追加";
+"preview" = "プレビュー";
+"makeDegitalBook" = "電子書籍化する";
+"renameDegitalBook" = "名前を変更";
+"fileMade" = "ファイルを作成しました。";
+"degitalbookMaking" = "電子書籍化";
+"degitalbookRename" = "ファイル名変更";
+"inputFileName" = "ファイル名を入力してください。";
+"sameFileName" = "同じファイル名が存在します。";
+"fileNameIsNotCorrect" = "ファイル名が正しくありません。";
+"failSaveFile" = "ファイルの保存に失敗しました。";
+"imageCompensation" = "画像補正";
+"renameCompleted" = "名前を変更しました。";
+
+"downloadHelp" = "URLを入力してWebサーバーからファイルをダウンロードできます。\nファイルあるいはファイルへのリンクが存在するURLを入力してください。";
+"useOnce" = "今回のみ利用";
+"useSaving" = "保存して利用";
+
+"rightRotation" = "右回転";
+"leftRotation" = "左回転";
+"graffiti" = "落書き";
+"rephotograph" = "再撮影";
+"adjustment" = "調整";
+"detectFrame" = "枠検出";
+
+"reflection" = "反映";
+"contrast" = "コントラスト";
+"resolution" = "解像度";
+"whiteBackground" = "背景：白";
+"monochromeImage" = "画像：白黒";
+"AboutImgCompensation" = "画像補正について";
+"trimNotice" = "画像の四隅の◯をドラッグして切り抜く範囲を設定できます。\nその他、画像を回転させたりコントラストを変更したりできます！\n\n\n(OKをタップすると次回以降このメッセージを表示しません。)";
+"compensationError" = "エラーが発生しました。最初からやり直してください。";
+"graffitiAlert" = "未実装";
+"graffitiNotice" = "メモ機能実装時に同時に実装されます";
+
+"batchDownload" = "一括ダウンロード";
+"noFileCanBeDowonload" = "ダウンロードできるファイルがありません。";
+"reading" = "読み込んでいます...";
+"discoveredFile" = "発見されたファイル";
+
+"fileTransmitted" = "ファイルを送信しています。";
+"transmissionComp" = "送信完了しました。";
+"fileReceived" = "ファイルを受信しています。";
+"receptionComp" = "受信完了しました。";
+"jisuiViewerConnect" = "自炊ビューア送信";
+"canceledOtherSide" = "相手側でキャンセルされました。";
+
+"bookmarkDeleted" = "ブックマークを削除しました。";
+"deleteAll" = "全削除";
+
+
+"pageIsNotOpen" = "ページを開けません。";
+"pageDidNotOpen" = "ページが開けませんでした。";
+
+"underTheEditFileAndNewMakes" = "編集データ削除して新規作成";
+"editContinue" = "編集を続行する";
+"editedFileSelect" = "編集するファイルを選択";
+"newMakeing" = "新規作成";
+"create" = "カメラで自炊";
+
+"editFileSelect" = "編集ファイルを選択";
+
+"photoAlbums" = "写真アルバム";
+"cameraRoll" = "カメラロール";
+
+"titleMPSong" = "曲";
+"titleMPArtist" = "アーティスト";
+"titleMPPlaylist" = "プレイリスト";
+
+// Bluetooth
+"btSeeking" = "通信端末を探索しています。";
+
+"confirmDeleteAll" = "ブックマークをすべて削除してよろしいですか？";
+
+"openSafari" = "リンクをSafariで開きますか？";
+
+// Bluetooth / dropbox help
+"shareHelpTextBt01" = "Bluetoothを利用して２台の端末間で直接ファイルが共有できます。ネットへの接続無くご利用いただけます。";
+"shareHelpTextBt02" = "手順は以下の通りです。";
+"shareHelpTextBt03" = "①メニューの「Bluetooth」から「Bluetooth接続を開始する」を２台ともタップします。";
+"shareHelpTextBt04" = "②接続相手が検出されると「ファイルを選択してください」が表示されます。";
+"shareHelpTextBt05" = "③送信を行う端末で「ファイルを選択してください」をタップすると、アプリ内の書籍ファイルが一覧表示されます。";
+"shareHelpTextBt06" = "④相手に送りたいファイルをタップします。";
+"shareHelpTextBt07" = "⑤それぞれ送信、受信が開始され、完了すると受信者の本棚に自動的に受信ファイルが追加されます。";
+"shareHelpTextBt08" = "※送信はファイル一つずつとなるため、フォルダを送信することは出来ません。";
+"shareHelpTextBt09" = "※ファイルのサイズによっては送受信に時間がかかる場合があります。";
+"shareHelpTextBt10" = "";
+
+"shareHelpTextDB01" = "オンラインストレージサービスDropboxを利用してファイル共有が出来ます。利用には事前の登録が必要です。";
+"shareHelpTextDB02" = "共有手順は以下の通りです。";
+"shareHelpTextDB03" = "■アプリ内書籍をDropboxへアップロードする場合";
+"shareHelpTextDB04" = "①メニューの「Dropbox」から「Dropboxを使用する」をタップします。";
+"shareHelpTextDB05" = "②ログイン画面が表示されるので、メールアドレスとパスワードを入力してログインします。";
+"shareHelpTextDB06" = "③Dropbox内のファイルが一覧表示されます。右上の「upload」をタップするとアプリ内のファイルが一覧表示されるので、Dropboxにアップロードしたいファイルをタップして「OK」をタップします。";
+"shareHelpTextDB07" = "④アップロードが完了するとDropboxにファイルが追加されます。";
+"shareHelpTextDB08" = "■Dropbox内ファイルをアプリ（本棚）へダウンロードする場合";
+"shareHelpTextDB09" = "①メニューの「Dropbox」から「Dropboxを使用する」をタップします。";
+"shareHelpTextDB10" = "②ログイン画面が表示されるので、メールアドレスとパスワードを入力してログインします。";
+"shareHelpTextDB11" = "③Dropbox内のファイルが一覧表示されます。アプリ内本棚にダウンロードしたいファイルをタップして「OK」をタップします。";
+"shareHelpTextDB12" = "④ダウンロードが完了するとアプリ内本棚にファイルが追加されます。";
+"shareHelpTextDB13" = "※ ログイン情報は記憶されるため、一度ログインすると次回以降はログイン作業は必要ありません。";
+"shareHelpTextDB14" = "※ファイルは一つずつアップロード・ダウンロードされるため、フォルダをアップロード・ダウンロードすることは出来ません。";
+"shareHelpTextDB15" = "※ファイルのサイズによってはアップロードやダウンロードに時間がかかる場合があります。";
+"shareHelpButtonDB" = "Dropboxに新規登録する";
+
+"explanation" = "説明";
+
+// Dropbox
+"useDb" = "Dropboxを使用する";
+
+"lastPage" = "最後のページです。";
+"firstPage" = "最初のページです。";
+
+"writing" = "書き込み";
+
+"aboutSelectMode" = "selectモードについて";
+"selectModeHelp" = "選択範囲の左上をドラッグして移動、右下をドラッグして変形できます。\n\n\n(OKをタップすると次回以降このメッセージを表示しません。)";
+
+"aboutDrawMode" = "drawモードについて";
+"drawModeHelp" = "自由に線を書けます。二本指ドラッグでスクロール、ピンチで拡大縮小できます。drawボタンのタップでカラーパレットを表示します。\n\n(OKをタップすると次回以降このメッセージを表示しません。)";
+
+"aboutMemoMode" = "memoモードについて";
+"memoModeHelp" = "好きな場所をタップしてコメントを書き込めます。\n\n(OKをタップすると次回以降このメッセージを表示しません。)";
+
+"aboutEraseMode" = "eraseモードについて";
+"eraseModeHelp" = "書いた線やスタンプを消去できます。eraseボタンのタップで太さパレットを表示します。\n\n(OKをタップすると次回以降このメッセージを表示しません。)";
+
+
+
+"delete" = "削除";
+"save" = "保存";
+
+"addAttachment" = "画像を添付します。";
+"noAttachment" = "添付画像がありません。";
+
+"addToLibrary" = "範囲を選択して画像登録";
+"selectByLibrary" = "登録した画像から選ぶ";
+"selectByCamera" = "カメラで撮影";
+"selectByAlbum" = "アルバムから選択";
+
+"selectAreaToLibrary" = "登録する範囲を選択してください。";
+
+"stampLibrary" = "登録されている画像";
+
+"display" = "表示";
+
+"myWriting" = "自分の編集";
+"othersWriting" = "他のユーザーの編集";
+
+"writingHelp" = "操作説明";
+
+"duplicate" = "複製";
+
+"fileDuplication" = "ファイルの複製";
+"dupMessage" = "ファイルを複製するとページの追加削除などが行えるようになります。\n\n(OKをタップすると次回以降このメッセージを表示しません。)";
+"dupPrefix" = "コピー〜";
+"completeDuplicate" = "複製が終わりました。";
+"faileDuplicate" = "複製失敗しました。:";
+
+"warning" = "注意";
+"memoryAlert" = "メモリ残量が少なくなっています。バックグラウンドのアプリを終了してください。";
+
+"confirmRename" = "同じファイル名が存在します。ファイル名を変更してファイルを取得しますか？";
+
+"renameUnexisting" = "変更して取得";
+
+"cantDuplicate" = "このファイルタイプは複製できません。";
+
+"pageSizeNotSupported" = "ページサイズがダウンロードできるサイズの限界を超えています";
+"bigFilesOver3G" = "3G回線を使っています。ファイルをアップロードする際はwifiへの切り替えをお勧めします。";
+
+"wait" = "\n\n少しを待ちください！";
+"preparing" = "アプロード準備中";
+
+//Localization Strings Add by Openxcell
+// Alert Strings
+
+"downloadMessage" = "%d枚の写真をダウンロードしています。しばらくお待ち下さい。";
+"downloadAllMessage" = "アルバム内の全ての写真をダウンロードし ますか?";
+"exitAlert" = "新しいアルバムを作成せずに終了しますか?";
+"logoutAlert" = "Facebookからログアウトしますか?";
+"createAlbumTitle" = "アルバム名を入力して下さい";
+"message" = "メッセージ";
+"selectImageAlert" = "少なくとも1枚の写真を選択してください。";
+"downloadComplete" = "ダウンロード完了";
+"messageDownload" = "アルバムを作成/編集";
+
+// Buttons Strings
+"camera" = "カメラ";
+"album" = "アルバム";
+"priview" = "プレビュー";
+"addByFacebook" = "Facebook";
+"sellectAll" = "全選択";
+"selectNone" = "選択解除";
+"downLoad" = "Download";
+"imageAdjustment" = "画像補正";
+"logout" = "ログアウト";
+"exit" = "キャンセル";
+"downloadBtn" = "ダウンロード";
+"createAlbumBtn" = "保存";
+"alertExitBtn" = "終了する";
+
+// Titles
+"backToImageAdjustment" = "編集画面へ戻る";
+"albumsTitle" = "アルバムの画像";
+"myalbumTitle" = "MYアルバム";
+"mylikeTitle" = "いいね!";
+"myfriendsTitle" = "友達";
+"pleasewait" = "少々お待ちください";
+"friendsPhoto" = "友達の写真";

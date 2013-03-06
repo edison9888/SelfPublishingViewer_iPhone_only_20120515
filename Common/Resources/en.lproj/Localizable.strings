@@ -1,0 +1,324 @@
+/* 
+  Localizable.strings
+  ForIPad
+
+  Created by 藤田正訓 on 11/07/04.
+  Copyright 2011 SAT. All rights reserved.
+*/
+
+"close" = "Close";
+
+"leftNext" = "Page open";
+"leftward" = "Leftward";
+"rightward" = "Rightward";
+"rotation" = "Rotate automatically";
+"spread" = "Spread pages";
+"separateCover" = "Separate cover page";
+"pageAnimation" = "Page animation";
+"scroll" = "Scroll";
+"curl" = "Curl";
+"pageMarginEffect" = "Shadow effect on page margin";
+"shelfFilename" = "Show filename on shelf";
+"shelfType" = "Shelf image";
+
+"backToShelf" = "Back to shelf";
+"return" = "Return";
+
+"error" = "Error";
+"connectionError" = "The connection error occurred.";
+"communicationFault" = "Communication fault";
+"conectionCut" = "The connection cut it.";
+"failCommunication" = "It failed in the communication.";
+
+"black" = "Black";
+"wood" = "Wood-White";
+"camouflage" = "Camouflage";
+"choco" = "Chocolate";
+"green" = "Green";
+"japan" = "Japanese Umbrella";
+"japan2" = "Japanese Umbrella2";
+"pastel" = "PinkSquare";
+"red" = "Red";
+"stars" = "Yellow";
+"wbox" = "Wood-blue";
+"wbox2" = "Wood-Gradation-green";
+"wbox3" = "Wood-Gradation-pink";
+"yellow" = "Dot";
+
+"bookmark" = "Bookmarks";
+"prefPane" = "Preferences";
+
+"edit" = "Edit";
+"done" = "Done";
+
+"back" = "Back";
+
+"confirm" = "Confirmation";
+"confirmDelete" = "Do you really want to delete?";
+"confirmDeleteAll" = "Delete all you wrote?";
+"deleted" = "Successfully deleted";
+
+"cancel" = "Cancel";
+
+"cover" = "Front cover";
+"coverthis" = "Make this page cover";
+"coverphoto" = "Select a cover from Photo";
+
+"coverbook" = "Make cover of this book";
+"coverfile" = "Make cover of parent file";
+"coverphotobook" = "Select a cover of this book";
+"coverphotofile" = "Select a cover of parent file";
+
+"complete" = "Completed";
+"coversetCompleted" = "Front cover is set.";
+"bookmarkCompleted" = "Bookmark completed.";
+
+
+"downloading" = "Downloading...";
+"abort" = "Abort";
+
+"uploading" = "Uploading...";
+"exporting" = "Exporting...";
+
+
+"completeCancel" = "Canceled.";
+"cancelDownload" = "Download canceled.";
+"completeDownload" = "Download completed.";
+"completeUpload" = "Upload completed.";
+
+"selectFile" = "Select a file";
+
+"overrideConfirm" = "Override";
+"confirmOverride" = "A file of same name exists. Do you wish to override?";
+
+"startShare" = "Start sharing using Bluetooth";
+
+"sharing" = "Sharing";
+
+"musicplayer" = "Music";
+"creation" = "Create";
+"dropbox" = "Dropbox";
+"bluetooth" = "Bluetooth";
+"preference" = "Preference";
+
+"httpdownload" = "From Web";
+
+"lock" = "Rotation lock";
+
+"addByCamera" = "camera";
+"addByAlbum" = "album";
+"preview" = "preview";
+"makeDegitalBook" = "Bind degitalize";
+"renameDegitalBook" = "Rename";
+"fileMade" = "Binding completed.";
+"degitalbookMaking" = "Binding";
+"degitalbookRename" = "Rename book";
+"inputFileName" = "Please input the file name.";
+"sameFileName" = "The same file name exists.";
+"fileNameIsNotCorrect" = "The file name is not correct.";
+"failSaveFile" = "Preservation failed.";
+"imageCompensation" = "Retouch";
+"renameCompleted" = "Renamed.";
+
+
+"downloadHelp" = "You can download file by fill URL below.\nPlease input URL of file or webpage contains links to files.";
+"useOnce" = "Use only this time";
+"useSaving" = "Use saving";
+
+"rightRotation" = "Right";
+"leftRotation" = "Left";
+"graffiti" = "Graffiti";
+"rephotograph" = "Photo";
+"adjustment" = "Adjust";
+"detectFrame" = "Detect";
+
+"reflection" = "Reflection";
+"contrast" = "Contrast";
+"resolution" = "Resolution";
+"whiteBackground" = "Whiteen background";
+"monochromeImage" = "Glayscalize";
+"AboutImgCompensation" = "About the image compensation";
+"trimNotice" = "You can set the clipped area by dragging the circles.  You can also rotate and set contrast, and so on.\n\n(Tap \"OK\" if you do not want to see this message again.)";
+"compensationError" = "The error occurred. Please start over from scratch.";
+"graffitiAlert" = "Unmounting";
+"graffitiNotice" = "When the memo function is mounted, it is mounted at the same time.";
+
+"batchDownload" = "Batch download";
+"noFileCanBeDowonload" = "There is no file that can be downloaded.";
+"reading" = "Reading...";
+"discoveredFile" = "Discovered file";
+
+"fileTransmitted" = "The file is transmitted.";
+"transmissionComp" = "The transmission completion was done.";
+"fileReceived" = "The file is received.";
+"receptionComp" = "The reception complateion was done.";
+"jisuiViewerConnect" = "Jisui Viewer Connect";
+"canceledOtherSide" = "It was canceled on the other party side.";
+
+"bookmarkDeleted" = "The bookmark was deleted.";
+"deleteAll" = "Delete ALL";
+
+"pageIsNotOpen" = "The page is not opened.";
+"pageDidNotOpen" = "The page did not open.";
+
+"underTheEditFileAndNewMakes" = "Delete editing file and create new";
+"editContinue" = "Edit last";
+"editedFileSelect" = "Edit a file";
+"newMakeing" = "Create new";
+"create" = "Create";
+
+"editFileSelect" = "Select a file to edit.";
+
+"photoAlbums" = "Photo Albums";
+"cameraRoll" = "Camera Roll";
+
+"titleMPSong" = "Song";
+"titleMPArtist" = "Artist";
+"titleMPPlaylist" = "Playlist";
+
+//bluetooth
+"btSeeking" = "Seeking BT terminal...";
+
+"confirmDeleteAll" = "Do you really want to delete all bookmarks?";
+
+"openSafari" = "Open link by Safari?";
+
+//bluetooth / dropbox help
+"shareHelpTextBt01" = "You can share the file device to device by using Bluetooth, without any access to web network.";
+"shareHelpTextBt02" = "Guidance for file sharing with Bluetooth.";
+"shareHelpTextBt03" = "①Share menu> Device to device share> Start sharing　（Both devices to communicate each other)";
+"shareHelpTextBt04" = "②You will see the list of files in the app. Both devices, tap [Connect] on the top right-hand corner. ";
+"shareHelpTextBt05" = "③Each device will scan devices and show a list, then either one should choose the device to connect. ";
+"shareHelpTextBt06" = "④The other device which is chosen will get a message “Pairing request from ****”, then click [Accept].";
+"shareHelpTextBt07" = "⑤Paired with each other, simply click the file you want to send. ";
+"shareHelpTextBt08" = "⑥When the file transmission done, the file will be added in the bookshelf of the receiver.";
+"shareHelpTextBt09" = "***Note*** Unable to transmit a folder because only one file can be transmitted at once.";
+"shareHelpTextBt10" = "***Note*** Transmission time depends on the file size. ";
+
+"shareHelpTextDB01" = " Online storage service Dropbox enables you to share your files. To use Dropbox, you need to sign up for it.";
+"shareHelpTextDB02" = "Guidance for file sharing.";
+"shareHelpTextDB03" = "■To upload files from the app to Dropbox,";
+"shareHelpTextDB04" = "①Share menu> Use Dropbox to share> To Dropbox";
+"shareHelpTextDB05" = "②Then log in screen will show up. Enter your email address and password.";
+"shareHelpTextDB06" = "③You will see the list of files in Dropbox. To see your files in the app, tap [Upload] on the top right-hand corner. And then choose the file you want to upload Dropbox, Click [OK].";
+"shareHelpTextDB07" = "④The last thing you have to do is just wait for file upload finish.";
+"shareHelpTextDB08" = "■To download files from Dropbox to the app bookshelf";
+"shareHelpTextDB09" = "①Share menu> Use Dropbox to share> To Dropbox";
+"shareHelpTextDB10" = "②Then log in screen will show up. Enter your email address and password.";
+"shareHelpTextDB11" = "③You will see the list of files in Dropbox. Choose an ebook file to download and the click [OK].";
+"shareHelpTextDB12" = "④When file download done, the file will be added in the bookshelf of the app.";
+"shareHelpTextDB13" = "***Note*** The login information Is remembered by the system. If you have logged in before once, you are not required to log-in again.";
+"shareHelpTextDB14" = "***Note*** Unable to upload/download a folder because only one file can be transmitted at once.";
+"shareHelpTextDB15" = "***Note*** Transmission time depends on the file size.";
+"shareHelpButtonDB" = "Sign-up for Dropbox";
+
+"explanation" = "Explanation";
+
+// Dropbox
+"useDb" = "Use Dropbox";
+
+"lastPage" = "Last page.";
+"firstPage" = "First page.";
+
+"writing" = "Writing";
+
+"aboutSelectMode" = "Selecting Mode";
+"selectModeHelp" = "You can move or reshape the selected area by dragging.\nMoving by drag left-top corner, reshaping by drag right-bottom corner.\n(Tap \"OK\" if you do not want to see this message again.)";
+
+"aboutDrawMode" = "Drawing Mode";
+"drawModeHelp" = "You can draw free line. Scroll by 2-finger draging, Zoom by pinching.  Color palette is shown by tapping \"draw\" button.\n\n(Tap \"OK\" if you do not want to see this message again.)";
+
+"aboutMemoMode" = "Memo Mode";
+"memoModeHelp" = "You can put comments on the point you like.\n\n(Tap \"OK\" if you do not want to see this message again.)";
+
+"aboutEraseMode" = "Erase Mode";
+"eraseModeHelp" = "You can erase lines and stamps.  Width palette is shown by tapping \"erase\" button.\n\n(Tap \"OK\" if you do not want to see this message again.)";
+
+
+"delete" = "Delete";
+"save" = "Save";
+
+"addAttachment" = "Attaching a photo.";
+"noAttachment" = "No attachment.";
+
+"addToLibrary" = "Add selected area to library";
+"selectByLibrary" = "Select from library";
+"selectByCamera" = "Take a picture";
+"selectByAlbum" = "Select from album";
+
+"selectAreaToLibrary" = "Select area to add to library";
+
+"stampLibrary" = "Stamp Library";
+
+"display" = "Visible";
+
+"myWriting" = "My writing";
+"othersWriting" = "Other's writing";
+
+"writingHelp" = "Operating Manual";
+
+"duplicate" = "Duplicate";
+
+"fileDuplication" = "Duplicating file";
+"dupMessage" = "You would be able to add or remove pages by duplicating file.\n\n(Tap \"OK\" if you do not want to see this message again.)";
+"dupPrefix" = "copy-";
+"completeDuplicate" = "Duplication completed.";
+"faileDuplicate" = "Duplication failed:";
+
+"warning" = "Warning";
+"memoryAlert" = "Available memory is going to short.  Please close background apps.";
+
+
+"confirmRename" = "Same name of file exists.  Do you want to get by renaming new file?";
+
+"renameUnexisting" = "Rename and get";
+
+"cantDuplicate" = "You cannot duplicate files of this type.";
+
+"pageSizeNotSupported" = "The page size exceeds the supported limits";
+
+"bigFilesOver3G" = "Transfer of large files over 3G may result in errors";
+
+"wait" = "\n\nPlease wait !";
+"preparing" = "Preparing book for upload";
+
+
+
+//Localization Strings Add by Openxcell
+
+// Alert Strings
+"downloadMessage" = "You have selected %d photos, please wait a moment.";
+"downloadAllMessage" = "Are you sure you want to download all photos in album?";
+"exitAlert" = "Exit from creating a new album?";
+"logoutAlert" = "Do you want to log out of Facebook?";
+"createAlbumTitle" = "Save As";
+"message" = "Message";
+"selectImageAlert" = "Please select atleast 1 photo.";
+"downloadComplete" = "Download Complete";
+"messageDownload" = "Create/Edit Album";
+
+// Buttons Strings
+"camera" = "Camera";
+"album" = "Album";
+"priview" = "Preview";
+"addByFacebook" = "Facebook";
+"sellectAll" = "Select All";
+"selectNone" = "Clear All";
+"downLoad" = "Download";
+"imageAdjustment" = "Image Adjustment";
+"logout" = "Logout";
+"exit" = "Exit";
+"createAlbumBtn" = "Create";
+"alertExitBtn" = "Exit";
+"downloadBtn" = "Download";
+ 
+// Titles
+"backToImageAdjustment" = "Back to Image Adjustment";
+"albumsTitle" = "Album Images";
+"myalbumTitle" = "My Album";
+"mylikeTitle" = "My Likes";
+"myfriendsTitle" = "My Friends";
+"friendsPhoto" = "Friends Photos";
+"pleasewait" = "Please Wait";
+
+

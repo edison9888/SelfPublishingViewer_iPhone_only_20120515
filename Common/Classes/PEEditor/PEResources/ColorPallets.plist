@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>imageName</key>
+		<string>p_color_1.png</string>
+		<key>rgb</key>
+		<string>2,2,2</string>
+	</dict>
+	<dict>
+		<key>imageName</key>
+		<string>p_color_2.png</string>
+		<key>rgb</key>
+		<string>252,252,252</string>
+	</dict>
+	<dict>
+		<key>rgb</key>
+		<string>229,1,1</string>
+		<key>imageName</key>
+		<string>p_color_3.png</string>
+	</dict>
+	<dict>
+		<key>rgb</key>
+		<string>219,139,36</string>
+		<key>imageName</key>
+		<string>p_color_4.png</string>
+	</dict>
+	<dict>
+		<key>rgb</key>
+		<string>246,245,51</string>
+		<key>imageName</key>
+		<string>p_color_5.png</string>
+	</dict>
+	<dict>
+		<key>rgb</key>
+		<string>214,42,139</string>
+		<key>imageName</key>
+		<string>p_color_6.png</string>
+	</dict>
+	<dict>
+		<key>rgb</key>
+		<string>251,124,189</string>
+		<key>imageName</key>
+		<string>p_color_7.png</string>
+	</dict>
+	<dict>
+		<key>rgb</key>
+		<string>166,201,100</string>
+		<key>imageName</key>
+		<string>p_color_8.png</string>
+	</dict>
+	<dict>
+		<key>rgb</key>
+		<string>46,171,242</string>
+		<key>imageName</key>
+		<string>p_color_9.png</string>
+	</dict>
+	<dict>
+		<key>rgb</key>
+		<string>139,21,138</string>
+		<key>imageName</key>
+		<string>p_color_10.png</string>
+	</dict>
+</array>
+</plist>
